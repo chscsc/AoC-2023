@@ -6,7 +6,7 @@ You may have noticed that there is no code in the `master` branch. All solutions
 
 | Language | Branch Name | Solved Days |
 | -------- | ----------- | ----------- |
-| Python 3 | `python`    | None        |
+| Python 3 | [`python`](https://github.com/chscsc/AoC-2023/tree/python)    | None        |
 
 ### Creating a new branch
 If you (being a chscsc member) want to contribute code to this repository in a language that does not already have code contributed, then you need to create a branch.
