@@ -22,3 +22,13 @@ Please use a `.gitignore` file in every branch for the right language. [This pag
 The `master` branch includes a `.gitignore` for C++ to remind people to replace it with one for their own language. 
 
 If you don't want to spend the time to write a custom one, you can easily use [gitignore.io](https://www.toptal.com/developers/gitignore/) to generate one for your specific language/branch.
+
+### Language Ideas
+If you want to contribute a new language branch, but can't think of any ideas, here are a few to try out. Make sure to solve at least one AoC problem before contributing code.
+* Java
+* C#
+* NodeJS
+* C++
+* Some kind of assembly
+* [Piet](https://esolangs.org/wiki/Piet) 
+* Choose a [random esolang](https://esolangs.org/wiki/Special:Random) from esolangs.org
