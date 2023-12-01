@@ -11,7 +11,7 @@ You may have noticed that there is no code in the `master` branch. All solutions
 | Java (17) | [`java`](https://github.com/chscsc/AoC-2023/tree/java)        | 1        | | Michael M |
 | NodeJS | [`NodeJS`](https://github.com/chscsc/AoC-2023/tree/nodejs) | 1 | | Michael M |
 | ReactJS | [`ReactJS`](https://github.com/chscsc/AoC-2023/tree/reactjs) | 1 | A web application. Modular enough that if you understand JavaScript you should be able to add days to it. | Michael M |
-| C# | [`c#`](https://github.com/chscsc/AoC-2023/tree/c%23) | 1 | | Finn B |
+| C# | [`csharp`](https://github.com/chscsc/AoC-2023/tree/csharp) | 1 | | Finn B |
 
 ### Creating a new branch
 If you (being a chscsc member) want to contribute code to this repository in a language that does not already have code contributed, then you need to create a branch.
