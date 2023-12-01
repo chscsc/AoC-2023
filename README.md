@@ -5,11 +5,13 @@ Advent of code repository for the Century Computer Science Club.
 ## Branches
 You may have noticed that there is no code in the `master` branch. All solutions are grouped by language in different branches.
 
-| Language | Branch Name | Solved Days |
-| -------- | ----------- | ----------- |
-| Python 3 | [`python`](https://github.com/chscsc/AoC-2023/tree/python)    | 1        |
-| Java (17) | [`java`](https://github.com/chscsc/AoC-2023/tree/java)        | 1        |
-| NodeJS | [`NodeJS`](https://github.com/chscsc/AoC-2023/tree/nodejs) | 1 |
+| Language | Branch Name | Solved Days | Details | Contributor |
+| -------- | ----------- | ----------- | ------- | ----------- |
+| Python 3 | [`python`](https://github.com/chscsc/AoC-2023/tree/python)    | 1        | | Finn B |
+| Java (17) | [`java`](https://github.com/chscsc/AoC-2023/tree/java)        | 1        | | Michael M |
+| NodeJS | [`NodeJS`](https://github.com/chscsc/AoC-2023/tree/nodejs) | 1 | | Michael M |
+| ReactJS | [`ReactJS`](https://github.com/chscsc/AoC-2023/tree/reactjs) | 1 | A web application. Modular enough that if you understand JavaScript you should be able to add days to it. | Michael M |
+| C# | [`c#`](https://github.com/chscsc/AoC-2023/tree/c%23) | 1 | | Finn B |
 
 ### Creating a new branch
 If you (being a chscsc member) want to contribute code to this repository in a language that does not already have code contributed, then you need to create a branch.
