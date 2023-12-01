@@ -1,32 +1,11 @@
-# Prerequisites
-*.d
+# Ignore Gradle project-specific cache directory
+.gradle
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Ignore Gradle build output directory
+build
 
-# Precompiled Headers
-*.gch
-*.pch
+# Ignore IntelliJ files
+.idea
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+input.txt
+sample.txt
