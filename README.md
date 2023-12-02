@@ -13,6 +13,7 @@ You may have noticed that there is no code in the `master` branch. All solutions
 | ReactJS | [`ReactJS`](https://github.com/chscsc/AoC-2023/tree/reactjs) | 1 | A web application. Modular enough that if you understand JavaScript you should be able to add days to it. | Michael M |
 | C# | [`csharp`](https://github.com/chscsc/AoC-2023/tree/csharp) | 1 | | Finn B |
 | C++ | [`cplusplus`](https://github.com/chscsc/AoC-2023/tree/csharp) | 1 | | Finn B |
+| Rust | [`rust`](https://github.com/chscsc/AoC-2023/tree/rust) | 1 | | Finn B |
 
 ### Creating a new branch
 If you (being a chscsc member) want to contribute code to this repository, then you need to create a branch.
