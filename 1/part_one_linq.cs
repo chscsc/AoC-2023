@@ -4,17 +4,17 @@ using System.IO;
 using System.Text.RegularExpressions;
 using System.Linq;
 
-public class Program
+public class P1LINQ
 {
     static Regex digits_rx = new(@"\d", RegexOptions.Compiled);
 
-    public static void Main()
+    public static void Run(string inputpath)
     {
-        String[] lines = File.ReadAllLines("./input.txt");
+        string[] lines = File.ReadAllLines(inputpath);
 
         int sum = 0;
 
-        foreach (String line in lines)
+        foreach (string line in lines)
         {
             IEnumerable<int> digits =
                 from chr in digits_rx.Matches(line)
@@ -23,7 +23,7 @@ public class Program
             sum += digits.First() * 10 + digits.Last();
         }
 
-        Console.WriteLine($"Part One: {sum}");
+        Console.WriteLine($"Part One (LINQ): {sum}");
 
         sum = 0;
     }
