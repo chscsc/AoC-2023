@@ -12,7 +12,7 @@ You may have noticed that there is no code in the `master` branch. All solutions
 | NodeJS | [`NodeJS`](https://github.com/chscsc/AoC-2023/tree/nodejs) | 1 | | Michael M |
 | ReactJS | [`ReactJS`](https://github.com/chscsc/AoC-2023/tree/reactjs) | 1 | A web application. Modular enough that if you understand JavaScript you should be able to add days to it. | Michael M |
 | C# | [`csharp`](https://github.com/chscsc/AoC-2023/tree/csharp) | 1 | | Finn B |
-| C++ | [`cplusplus`](https://github.com/chscsc/AoC-2023/tree/csharp) | 1 | | Finn B |
+| C++ | [`cplusplus`](https://github.com/chscsc/AoC-2023/tree/cplusplus) | 1 | | Finn B |
 | Rust | [`rust`](https://github.com/chscsc/AoC-2023/tree/rust) | 1 | | Finn B |
 | C    | [`c`](https://github.com/chscsc/AoC-2023/tree/c) | 1.1 | There are a lot of bad practices going on here. | Michael M |
 
