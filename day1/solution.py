@@ -21,7 +21,7 @@ def parseline(l):
 
 
 inp = [parseline(l) for l in lines]
-print(f"Part Two: {sum(inp)}")
+print(f"Part One: {sum(inp)}")
 
 
 def parseline2(l):
