@@ -1,6 +1,6 @@
 package chscsc.aoc;
 
-import chscsc.aoc.days.Day1;
+import chscsc.aoc.days.Day2;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -12,17 +12,17 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException {
         List<String> lines = new ArrayList<>();
 
-        Scanner scanner = new Scanner(new FileReader("sample.txt"));
+        Scanner scanner = new Scanner(new FileReader("input.txt"));
         while (scanner.hasNextLine()) {
             lines.add(scanner.nextLine().trim());
         }
 
-        Solution day1 = new Day1();
+        Solution day = new Day2();
 
-        List<String> solutions = day1.solve(lines);
+        List<String> solutions = day.solve(lines);
 
-        for(int partNumber = 0; partNumber < day1.getClass().getAnnotation(SolutionData.class).parts().length; partNumber++) {
-            System.out.println("Day 1 Part " + partNumber + ": " + solutions.get(partNumber));
+        for(int partNumber = 0; partNumber < day.getClass().getAnnotation(SolutionData.class).parts().length; partNumber++) {
+            System.out.println("Part " + (partNumber + 1) + ": " + solutions.get(partNumber));
         }
     }
 }
