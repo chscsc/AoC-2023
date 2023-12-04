@@ -7,7 +7,7 @@ You may have noticed that there is no code in the `master` branch. All solutions
 
 | Language | Branch Name | Solved Days | Details | Contributor |
 | -------- | ----------- | ----------- | ------- | ----------- |
-| Python 3 | [`python`](https://github.com/chscsc/AoC-2023/tree/python)    | 1-3        | | Finn B |
+| Python 3 | [`python`](https://github.com/chscsc/AoC-2023/tree/python)    | 1-4        | | Finn B |
 | Java (17) | [`java`](https://github.com/chscsc/AoC-2023/tree/java)        | 1-2        | | Michael M |
 | NodeJS | [`NodeJS`](https://github.com/chscsc/AoC-2023/tree/nodejs) | 1 | | Michael M |
 | ReactJS | [`ReactJS`](https://github.com/chscsc/AoC-2023/tree/reactjs) | 1 | A web application. Modular enough that if you understand JavaScript you should be able to add days to it. | Michael M |
