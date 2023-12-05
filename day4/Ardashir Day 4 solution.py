@@ -28,5 +28,5 @@ def part1_and_part2(file_path):
     print('\nPart 2:')
     print(sum(card_to_counts.values()))
 
-file_path = 'input'
+file_path = 'input.txt'
 part1_and_part2(file_path)
