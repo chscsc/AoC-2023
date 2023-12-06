@@ -1,6 +1,6 @@
 import sys
 
-def read_lines_to_list(file_name="input"):
+def read_lines_to_list(file_name="input.txt"):
     try:
         with open(file_name, "r", encoding="utf-8") as file:
             return [line.strip() for line in file]
